@@ -13,6 +13,11 @@ const productos = [
       nombre: "Anillo de Plata",
       precio: 30000,
       imagen: "img/anillo-plata.jpg"
+    },
+    {
+      nombre: "Pulso",
+      precio: 10000,
+      imagen: "img/pulso.jpg"
     }
   ];
   
